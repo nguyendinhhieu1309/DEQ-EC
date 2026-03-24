@@ -32,7 +32,6 @@ Structural polarization is commonly used as a proxy for echo chambers in social 
 <img width="721" height="249" alt="image" src="https://github.com/user-attachments/assets/895aa680-500f-4f4e-9292-aa588a341772" />
 
 
-> Put your pipeline figure at `assets/deqec_pipeline.png` (you can export Figure 1 from your paper).
 
 ---
 
