@@ -12,6 +12,12 @@ By integrating temporally regularized graph representation learning with exposur
 
 ---
 
+## 📄 Paper
+
+- [Official Paper]()
+
+---
+
 ## Abstract
 
 Structural polarization is commonly used as a proxy for echo chambers in social networks; however, densely clustered interaction graphs do not necessarily imply restricted information exposure. Existing metrics primarily emphasize community cohesion and separation, largely overlooking exposure dynamics and temporal reinforcement. This work introduces DEQ-EC, a dynamic exposure-aware framework that integrates structural polarization with user-level exposure diversity across time. DEQ-EC leverages temporal graph representations and exposure entropy derived from interaction-driven content distributions to produce a unified measure capable of distinguishing transient controversy from sustained echo chamber formation. Unlike prior approaches, the framework does not assume fixed ideological partitions and operates without labeled users while capturing evolving polarization patterns. Evaluation on benchmark and large-scale social media datasets demonstrates that DEQ-EC improves discrimination between polarized and non-polarized environments and identifies event-driven polarization spikes that structural metrics alone fail to detect.
