@@ -29,7 +29,8 @@ Structural polarization is commonly used as a proxy for echo chambers in social 
 4) community-aware exposure modeling, and  
 5) dynamic DEQ-EC scoring via structural separation/cohesion modulated by cross-community exposure.
 
-![DEQ-EC Pipeline](<img width="721" height="249" alt="image" src="https://github.com/user-attachments/assets/67024d6b-97e1-457c-8646-319d57f8b158" />)
+<img width="721" height="249" alt="image" src="https://github.com/user-attachments/assets/895aa680-500f-4f4e-9292-aa588a341772" />
+
 
 > Put your pipeline figure at `assets/deqec_pipeline.png` (you can export Figure 1 from your paper).
 
